@@ -15,13 +15,13 @@ const Navbar = () => {
           projects
           <span className='text-blue-400'>();</span>
         </Link>
-        <Link href='/' className='transition-all hover:!opacity-100 group-hover:opacity-75'>
+        <Link href='#skills' className='transition-all hover:!opacity-100 group-hover:opacity-75'>
           skills<span className='text-blue-400'>();</span>
         </Link>
-        <Link href='/' className='transition-all hover:!opacity-100 group-hover:opacity-75'>
+        <Link href='#experience' className='transition-all hover:!opacity-100 group-hover:opacity-75'>
           experience<span className='text-blue-400'>();</span>
         </Link>
-        <Link href='/' className='hover:!opacity-100 group-hover:opacity-75'>
+        <Link href='#contact' className='hover:!opacity-100 group-hover:opacity-75'>
           contact<span className='text-blue-400'>();</span>
         </Link>
       </div>

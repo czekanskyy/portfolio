@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaTelegram, FaXTwitter } from 'react-icons/fa6';
 
 const Contact = () => {
   return (
-    <section className='flex justify-center px-[20px] pt-32' id='experience'>
+    <section className='flex justify-center px-[20px] pt-32' id='contact'>
       <div className='flex w-[1240px] flex-col place-content-start space-y-8'>
         <h2 className='text-6xl font-bold'>
           <span className='align-top text-2xl text-blue-400'>_04 </span>Contact Me
