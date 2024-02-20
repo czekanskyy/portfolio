@@ -1,0 +1,32 @@
+export const experience = [
+  {
+    id: 0,
+    jobName: 'IT Specialist',
+    companyName: '"Elektryk" Krosno High School',
+    dateStart: '2019',
+    dateEnd: '2023',
+    logo: '',
+    description: 'Lorem ipsum dolor sit amet.',
+    skills: ['Basic C++', 'Web Development', 'Network Management', 'PC Repairment'],
+  },
+  {
+    id: 1,
+    jobName: 'MSc Student',
+    companyName: 'Rzeszów University of Technology',
+    dateStart: '2023',
+    dateEnd: null,
+    logo: '',
+    description: 'Lorem ipsum dolor sit amet.',
+    skills: ['Calculus Math', 'General Physics', 'Aerodynamics', 'Aviation Technology', 'Advanced C++'],
+  },
+  {
+    id: 2,
+    jobName: 'Web Admin',
+    companyName: 'Sentistocks',
+    dateStart: '2023',
+    dateEnd: null,
+    logo: '',
+    description: 'Lorem ipsum dolor sit amet.',
+    skills: ['WordPress', 'WooCommerce', 'Server Management'],
+  },
+];

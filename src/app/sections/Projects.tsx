@@ -9,7 +9,7 @@ const Projects = () => {
     <section className='flex justify-center px-[20px] pt-32' id='projects'>
       <div className='grid w-[1240px] grid-cols-12 place-content-start gap-8'>
         <h2 className='col-span-6 text-6xl font-bold'>
-          <span className='align-top text-2xl text-blue-400'>#1 </span>My Projects
+          <span className='align-top text-2xl text-blue-400'>_01 </span>My Projects
         </h2>
         <div className='relative col-span-6 row-span-2 flex flex-col space-y-2'>
           <Image src={code} alt='Code' className='mb-2 w-4/5 self-end' />
