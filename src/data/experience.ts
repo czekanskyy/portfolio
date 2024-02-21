@@ -15,7 +15,7 @@ export const experience = [
     companyName: 'Rzeszów University of Technology',
     dateStart: '2023',
     dateEnd: null,
-    logo: '',
+    logo: '/prz_pl.png',
     description: 'Lorem ipsum dolor sit amet.',
     skills: ['Calculus Math', 'General Physics', 'Aerodynamics', 'Aviation Technology', 'Advanced C++'],
   },

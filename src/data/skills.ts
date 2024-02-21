@@ -1,20 +1,20 @@
 export const skillStack = [
   {
     name: 'Project Design',
-    logo: '',
+    logo: '/Figma.svg',
     skills: ['Figma', 'Photoshop'],
-    accentColor: 'decoration-yellow-400',
+    accentColor: '#facc15',
   },
   {
     name: 'Front End Development',
-    logo: '',
+    logo: '/React.svg',
     skills: ['HTML', 'CSS + SASS', 'TailwindCSS', 'JavaScript', 'TypeScript', 'ReactJS', 'Next.js'],
-    accentColor: 'decoration-indigo-400',
+    accentColor: '#818cf8',
   },
   {
     name: 'WordPress Development',
-    logo: '',
+    logo: 'WordPress.svg',
     skills: ['WordPress', 'WooCommerce', 'Elementor', 'PHP', 'MySQL'],
-    accentColor: 'decoration-green-400',
+    accentColor: '#34d399',
   },
 ];
